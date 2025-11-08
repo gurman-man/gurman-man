@@ -2,13 +2,13 @@
   <img src="https://github.com/gurman-man/gurman-man/blob/main/Banner.png" alt="Banner" width="325">
 </div>
 
-**`Digital Gurman (iOS Developer / Swift / Apple-Inspired)`**
+**`Digital Gurman (iOS Developer / Swift)`**
 
-Hey, I'm Max — an aspiring iOS developer passionate about building elegant apps and learning deeply. I fell in love with the Apple ecosystem, Steve Jobs' story, and the creativity behind Swift — especially that moment when Xcode reflected my changes live.
+👋 Hey, I'm Max — iOS developer focused on creating functional, user-friendly apps with Swift  
+🍎 Inspired by Apple’s design, Steve Jobs’ story, and that spark when Xcode reflected my changes live  
 
-Outside of coding, I like to stay active — football, gym, skateboarding — and I enjoy reading and listening to podcasts.  
-Currently building iOS apps, growing every day, and working toward my first developer role.  
-Always curious. Always improving.
+⚽ Football • 🏋️‍♂️ Gym • 🛹 Skateboarding • 📚 Reading • 🏎️ Formula 1  
+🚀 Always learning. Always improving
 
 ---
 
@@ -19,7 +19,7 @@ Always curious. Always improving.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coffeemangurman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/megden51)
 
