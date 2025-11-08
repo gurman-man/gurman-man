@@ -5,7 +5,7 @@
 **`Digital Gurman (iOS Developer / Swift)`**
 
 👋 Hey, I'm Max — iOS developer focused on creating functional, user-friendly apps with Swift  
-🍎 Inspired by Apple’s design, Steve Jobs’ story, and that spark when Xcode reflected my changes live  
+🍎 Inspired by Apple’s design, Steve Jobs’ story and the creativity behind Swift — especially that moment when Xcode reflected my code live  
 
 ⚽ Football • 🏋️‍♂️ Gym • 🛹 Skateboarding • 📚 Reading • 🏎️ Formula 1  
 🚀 Always learning. Always improving
